@@ -1,0 +1,1 @@
+URL of API: "https://apidatos.ree.es/en/datos/demanda/demanda-tiempo-real?start_date=2021-04-26T00:00&end_date=2021-04-26T23:59&time_trunc=hour&geo_trunc=electric_system&geo_limit=peninsular&geo_ids=8741"
